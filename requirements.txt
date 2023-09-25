@@ -5,3 +5,7 @@ unittest2
 pylint
 django
 pymongo
+python-qrtools
+pypng
+zbar
+pillow
